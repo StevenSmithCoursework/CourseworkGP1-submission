@@ -1,0 +1,43 @@
+﻿Build started 13/12/2015 19:16:38.
+     1>Project "c:\Users\Steven\documents\visual studio 2015\Projects\CourseworkGP1\CourseworkGP1\CourseworkGP1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\VisualStudio\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\steven\documents\visual studio 2015\projects\courseworkgp1\courseworkgp1\main.cpp(203): warning C4244: '=': conversion from 'DWORD' to 'float', possible loss of data
+     1>c:\users\steven\documents\visual studio 2015\projects\courseworkgp1\courseworkgp1\main.cpp(207): warning C4244: '=': conversion from 'DWORD' to 'float', possible loss of data
+     1>c:\users\steven\documents\visual studio 2015\projects\courseworkgp1\courseworkgp1\main.cpp(222): warning C4244: '=': conversion from 'DWORD' to 'float', possible loss of data
+     1>c:\users\steven\documents\visual studio 2015\projects\courseworkgp1\courseworkgp1\main.cpp(227): warning C4244: '=': conversion from 'DWORD' to 'float', possible loss of data
+     1>c:\users\steven\documents\visual studio 2015\projects\courseworkgp1\courseworkgp1\main.cpp(249): warning C4244: '=': conversion from 'DWORD' to 'float', possible loss of data
+     1>c:\users\steven\documents\visual studio 2015\projects\courseworkgp1\courseworkgp1\main.cpp(285): warning C4244: '=': conversion from 'DWORD' to 'float', possible loss of data
+     1>c:\users\steven\documents\visual studio 2015\projects\courseworkgp1\courseworkgp1\main.cpp(300): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\users\steven\documents\visual studio 2015\projects\courseworkgp1\courseworkgp1\main.cpp(307): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\users\steven\documents\visual studio 2015\projects\courseworkgp1\courseworkgp1\main.cpp(314): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\users\steven\documents\visual studio 2015\projects\courseworkgp1\courseworkgp1\main.cpp(321): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\users\steven\documents\visual studio 2015\projects\courseworkgp1\courseworkgp1\main.cpp(328): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+       Link:
+         D:\VisualStudio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\steven\documents\visual studio 2015\Projects\CourseworkGP1\Debug\CourseworkGP1.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"c:\users\steven\documents\visual studio 2015\Projects\CourseworkGP1\Debug\CourseworkGP1.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\steven\documents\visual studio 2015\Projects\CourseworkGP1\Debug\CourseworkGP1.lib" /MACHINE:X86 Debug\cBkGround.obj
+         Debug\cButton.obj
+         Debug\cFileHandler.obj
+         Debug\cFont.obj
+         Debug\cFontMgr.obj
+         Debug\cInputMgr.obj
+         Debug\cSound.obj
+         Debug\cSoundMgr.obj
+         Debug\cSprite.obj
+         Debug\cTexture.obj
+         Debug\cWNDManager.obj
+         Debug\main.obj
+         Debug\windowOGL.obj
+         alut.lib
+         DevIL.lib
+         freeglut.lib
+         ftgl.lib
+         ILU.lib
+         ILUT.lib
+         OpenAL32.lib
+         CourseworkGP1.vcxproj -> c:\users\steven\documents\visual studio 2015\Projects\CourseworkGP1\Debug\CourseworkGP1.exe
+     1>Done Building Project "c:\Users\Steven\documents\visual studio 2015\Projects\CourseworkGP1\CourseworkGP1\CourseworkGP1.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.41
